@@ -56,7 +56,7 @@ modules: [
     }],
 
 booking: "Each person learns how to include web accessibility in their contracts and audit that work. The goal here is that business owners feel confident that they can be proactive about accessibility rather than reactive.",
-bookingTwo: "The webinar is just for your own business. No other attendees. So there's ample time for questions and to reflect on our website"
+bookingTwo: "The webinar is just for your own business. No other attendees. So there's ample time for questions and to reflect on our website. For more information, reach out to sales@beaccessible.com."
 }
 
 $(document).ready(function() {
